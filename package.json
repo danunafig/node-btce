@@ -1,14 +1,14 @@
 {
   "name": "btce",
-  "version": "0.4.4",
-  "description": "BTC-E Trading API",
+  "version": "0.0.1",
+  "description": "Public BTC-E API",
   "main": "btce.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/petermrg/node-btce.git"
+    "url": "https://github.com/danunafig/node-btce"
   },
   "keywords": [
     "btc-e",
@@ -20,11 +20,11 @@
     "litecoin",
     "ltc"
   ],
-  "author": "Peter Morgan",
+  "author": "Denis Bystrov",
   "license": "MIT",
   "readmeFilename": "README.md",
   "gitHead": "2497dc25839ccf43c69ff0f707b3e0faf3f38885",
   "bugs": {
-    "url": "https://github.com/petermrg/node-btce/issues"
+    "url": "https://github.com/danunafig/node-btce/issues"
   }
 }
